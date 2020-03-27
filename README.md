@@ -1,5 +1,7 @@
 # **Grupa8-RefugeesWelcome**
 
+Projekat smo radili tokom 2018. godine na predmetu "Objektno orjentisana analiza i dizajn" na sljedećem epozitorijumu https://github.com/ooad-2017-2018/Grupa8-RefugeesWelcome
+
 ![Alt Text](https://media.giphy.com/media/l4JyOCNEfXvVYEqB2/giphy.gif)
 
 ## :dancer:  **Članovi grupe:**
